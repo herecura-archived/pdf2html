@@ -1,7 +1,7 @@
 pkgbase = pdf2html
 	pkgdesc = Converts pdf files to html files.
 	pkgver = 1.4
-	pkgrel = 4
+	pkgrel = 5
 	url = ftp://atrey.karlin.mff.cuni.cz/pub/local/clock/pdf2html/pdf2html-1.4/README
 	arch = i686
 	arch = x86_64
@@ -13,9 +13,11 @@ pkgbase = pdf2html
 	source = ftp://atrey.karlin.mff.cuni.cz/pub/local/clock/pdf2html/pdf2html-1.4.tgz
 	source = pbm2png.diff
 	source = index.html.diff
+	source = pdf2html-1.4-libpng15.patch
 	md5sums = cefb8fac9366cc7f793740e9d397af1a
 	md5sums = f68531d64358cc7f23282792510199e5
 	md5sums = 017aa3a4d4ce042f519ca9863994d285
+	md5sums = eeda46aff3d9cbd6206ab18de45e8e4d
 
 pkgname = pdf2html
 
