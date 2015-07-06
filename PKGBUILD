@@ -2,7 +2,7 @@
 
 pkgname=pdf2html
 pkgver=1.4
-pkgrel=6
+pkgrel=7
 pkgdesc="Converts pdf files to html files."
 arch=('i686' 'x86_64')
 url="ftp://atrey.karlin.mff.cuni.cz/pub/local/clock/pdf2html/pdf2html-1.4/README"
